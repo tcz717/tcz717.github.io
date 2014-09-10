@@ -2,11 +2,11 @@ using System;
 
 namespace Script
 {
-public Core
-{
-    public void Run()
+    public class Core
     {
-        Console.WriteLine("Successd!");
+        public void Run()
+        {
+            Console.WriteLine("Successd!");
+        }
     }
-}
 }
