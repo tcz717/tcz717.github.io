@@ -1,4 +1,4 @@
-# GSoC Student Application — LabLua
+# GSoC Student Application â€” LabLua
 
 Applicant Name: Chengzhi Tan
 
@@ -126,11 +126,11 @@ Applicant Name: Chengzhi Tan
 
     Other projects:
 
-    * **Peer Pro Math App** — Academic Project
+    * **Peer Pro Math App** â€” Academic Project
 
-    * **External Device for Angry Birds Video Game** — Maker Competition Project
+    * **External Device for Angry Birds Video Game** â€” Maker Competition Project
 
-    * **Line Tracking Robot** — Contest Project
+    * **Line Tracking Robot** â€” Contest Project
 
 5. Are you (or have you been) involved with any open source development project? If so, briefly describe the project and the scope of your involvement.
 
@@ -152,7 +152,7 @@ Applicant Name: Chengzhi Tan
 
 2. Please provide a schedule with dates and important milestones/deliverables, in two week increments.
 
-    1. Week 1 – 2
+    1. Week 1 â€“ 2
 
         Implement Lua bindings for wrappers of kernel socket APIs.
 
